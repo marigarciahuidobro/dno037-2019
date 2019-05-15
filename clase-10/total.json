@@ -88,15 +88,15 @@
     "nombre": "María García-Huidobro",
     "ingreso":2016,
     "trabajos": [ {
-        "titulo": "RAF-TALLER 4", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/marigarciahuidobro/ev2/gh-pages/fotoraf.jpg"
+        "titulo": "RAF-TALLER 4", "descriptor":"Examen taller producto 2018", "imagen": "https://raw.githubusercontent.com/marigarciahuidobro/ev2/gh-pages/fotoraf.jpg"
     }
     ,
     {
-        "titulo": "MAGGI TWIZZ-TALLER 5", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/marigarciahuidobro/ev2/gh-pages/fototwizz.jpg"
+        "titulo": "MAGGI TWIZZ-TALLER 5", "descriptor":"examen junto a Maggi TIDE", "imagen": "https://raw.githubusercontent.com/marigarciahuidobro/ev2/gh-pages/fototwizz.jpg"
     }
     ,
     {
-        "titulo": "LAMPARA-ESTRUCTURAS Y MATERIALES", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/marigarciahuidobro/ev2/gh-pages/foto-lamparasiii.jpg"
+        "titulo": "LAMPARA-ESTRUCTURAS Y MATERIALES", "descriptor":"Luminaria de yeso", "imagen": "https://raw.githubusercontent.com/marigarciahuidobro/ev2/gh-pages/foto-lamparasiii.jpg"
     }
     ]
 }
